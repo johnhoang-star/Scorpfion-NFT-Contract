@@ -1,0 +1,6 @@
+// module.exports = [
+//   "0xb53B031D679244c945d50388a44D0Dff1488a0f9",
+//   "0x303F9bc660137aE8EaB60DB4E05610bA0Fabb60D",
+// ];
+
+module.exports = ["0x6E8903fAD5298aFA3E595702c616459A73Bc7e1C"];
